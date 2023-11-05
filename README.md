@@ -3,3 +3,5 @@ Interactive stained glass devices are a form of screen-free technology that are 
 
 ### Team Members
 Daniel Gagnon-King, Alisa Gamayunova, Sara Litwiniuk, Xinyu Chen
+
+iStudio: (https://istudio.cs.queensu.ca/)
