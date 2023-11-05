@@ -3,7 +3,7 @@ Interactive stained glass devices are a form of screen-free technology that are 
 
 ### Prototype 
 During our interview with one group of participants, a five-person household proposed a 3D device to record, store, and play back audio recordings, called the HOMEmory.
-![User Manual](https://github.com/18ZL107/Interactive-Stained-Glass/blob/main/Instruction.png =310.4 × 526.4)
+![User Manual](https://github.com/18ZL107/Interactive-Stained-Glass/blob/main/Instruction.png | width=310.4)
 
 ### Team Members
 Daniel Gagnon-King, Alisa Gamayunova, Sara Litwiniuk, Xinyu Chen
